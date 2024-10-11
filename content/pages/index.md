@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: >-
       I am passionate about crafting seamless user experiences and always up for
-      a creative challenge.Fun fact: I’m a fan of historical stories!
+      a creative challenge.Fun fact: I’m a fan of historical stories
     text: >
       I am passionate about crafting seamless user experiences and always up for
       a creative challenge.
