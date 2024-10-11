@@ -14,15 +14,6 @@ sections:
 
       Fun fact: I’m a fan of historical stories!
     actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
       - label: Download Resume
         altText: ''
         url: /
