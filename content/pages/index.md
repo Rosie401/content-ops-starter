@@ -14,7 +14,7 @@ sections:
 
       Fun fact: I’m a fan of historical stories!
     actions:
-      - label: Downlord
+      - label: Download Resume
         altText: ''
         url: /
         showIcon: false
