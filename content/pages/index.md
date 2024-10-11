@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: "Hi, I’m Rosemary \U0001F60EI’m a UI/UX Designer based in Abuja.I specialize in creating engaging Web and Mobile app designs."
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
