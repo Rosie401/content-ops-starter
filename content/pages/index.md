@@ -16,7 +16,7 @@ sections:
     actions:
       - label: Download Resume
         altText: ''
-        url: /
+        url: '/"C:\Users\HOME\OneDrive\Documents\Rosie''s Resume1.pdf"'
         showIcon: false
         icon: arrowRight
         iconPosition: right
