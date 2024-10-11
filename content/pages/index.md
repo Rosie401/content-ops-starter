@@ -14,15 +14,6 @@ sections:
 
       Fun fact: I’m a fan of historical stories!
     actions:
-      - label: Download Resume
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
@@ -32,6 +23,15 @@ sections:
         style: primary
         elementId: ''
         type: Link
+      - label: Download Resume
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
     media:
       url: /images/WhatsApp Image 2024-01-27 at 20.35.08_3642dc39.jpg
       altText: Unblock your team boost your time to production preview
