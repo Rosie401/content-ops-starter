@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Rosemary Sunday
+      label: "\U0001F3C5 UI/UX Designer"
       color: text-primary
       type: Badge
     elementId: ''
