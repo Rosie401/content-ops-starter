@@ -7,7 +7,9 @@ sections:
       text: "Hi, I’m Rosemary \U0001F60EI’m a UI/UX Designer based in Abuja.I specialize in creating engaging Web and Mobile app designs."
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      I am passionate about crafting seamless user experiences and always up for
+      a creative challenge.Fun fact: I’m a fan of historical stories!
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
